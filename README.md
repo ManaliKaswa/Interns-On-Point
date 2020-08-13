@@ -11,4 +11,4 @@ In a team of 4, we developed an Internship Management Portal:</br>
 ### Technology stack :</br>
 HTML,CSS (Front End) , PHP,MYSQL (Back End) , Python (For graphs and visualisation)
 
-Note : Change path in the codes accordingly. 
+Note : Change path in the codes accordingly. Also while adding data in the MySQL in phpmyadmin check the code for column names.
